@@ -1,6 +1,6 @@
-# 05-geopark-raster-data
+# 05-geopark-time-series
 
-Here is where the materials for the GeoPark spatial raster data workshops will be maintained.
+Here is where the materials for the GeoPark time-series data workshops will be maintained.
 
 1. **Fork** this repository (`Fork` button on the upper right).
      > This means you own your work and can share it easily with others
